@@ -1,0 +1,2 @@
+The Rdata file is located in the corresponding folder, and the R code can be executed directly. This code is modified based on the following core code: https://github.com/amssshangyu/interaction_analysis
+The Latin names of the species are listed in the Excel table.

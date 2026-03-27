@@ -1,0 +1,1 @@
+This code is based on the core code: https://doi. org/10.1016/j.jclepro.2025.145556
